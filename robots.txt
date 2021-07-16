@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sudosadhu.github.io/techtips/sitemap.xml

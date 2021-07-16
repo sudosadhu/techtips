@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>techtips</title>
+    <link href="https://sudosadhu.github.io/techtips/feed.xml" rel="self" />
+    <link href="https://sudosadhu.github.io/techtips" />
+    <updated>2021-07-16T15:41:57+05:30</updated>
+    <author>
+        <name>sudosadhu</name>
+    </author>
+    <id>https://sudosadhu.github.io/techtips</id>
+
+    <entry>
+        <title>stop commenting , start direct messaging</title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/stop-commenting-start-direct-messaging.html"/>
+        <id>https://sudosadhu.github.io/techtips/stop-commenting-start-direct-messaging.html</id>
+
+        <updated>2021-07-16T15:41:57+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>PREINSTALL FOSS TOOLS </title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/preinstall-foss-tools.html"/>
+        <id>https://sudosadhu.github.io/techtips/preinstall-foss-tools.html</id>
+
+        <updated>2021-07-16T11:58:04+05:30</updated>
+            <summary>
+                <![CDATA[
+                     preinstalling all the tools is the key to get more linux and foss adaptation ( that is win over the situation- that people do not like to use linux and foss- because it is tough ) 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>preinstalling all the tools is the key </li>
+<li>to get more linux and foss adaptation ( that is win over the situation- that people do not like to use linux and foss- because it is tough ) </li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>tech ni</title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/tech-ni.html"/>
+        <id>https://sudosadhu.github.io/techtips/tech-ni.html</id>
+
+        <updated>2021-07-07T12:35:39+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>tim lee is wrong about internet gone wrong why ??</title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/tim-lee-is-wrong-about-internet-gone-wrong-why.html"/>
+        <id>https://sudosadhu.github.io/techtips/tim-lee-is-wrong-about-internet-gone-wrong-why.html</id>
+
+        <updated>2021-07-06T18:25:36+05:30</updated>
+            <summary>
+                <![CDATA[
+                     google facebook domination , effectig [privacy , mabe no t=ther solution 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>google facebook domination , effectig [privacy , mabe no t=ther solution </li>
+<li> </li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>is ml really software 2.0 ??</title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/is-ml-really-software-20.html"/>
+        <id>https://sudosadhu.github.io/techtips/is-ml-really-software-20.html</id>
+
+        <updated>2021-07-06T18:23:57+05:30</updated>
+            <summary>
+                <![CDATA[
+                     &gt; is the computng changed and is there something fishy , t
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>&gt; is the computng changed and is there something fishy , </p>
+<p> t</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>software 100 %secure ,  100 % ease of use </title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/tools-100dollar-secure-100-ease-of-use.html"/>
+        <id>https://sudosadhu.github.io/techtips/tools-100dollar-secure-100-ease-of-use.html</id>
+
+        <updated>2021-07-06T18:23:09+05:30</updated>
+            <summary>
+                <![CDATA[
+                     % os &gt; debian windows ame &gt; updates gunus &gt; bsd . &gt; arch &gt; debian &gt; debian is the best os gentoo &gt; windows &gt; do not use mac &gt; fine tails &gt; perfect research software virtual box &gt; not feasible qubes &gt;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>% os  &gt; debian
+<ol>
+<li>windows ame &gt; updates </li>
+<li>gunus &gt;
+<ol>
+<li>bsd .      &gt;   </li>
+<li>arch       &gt; </li>
+<li>debian   &gt; debian is the best os </li>
+<li> gentoo &gt; </li>
+</ol>
+</li>
+<li>windows &gt; do not use</li>
+<li>mac &gt;  fine</li>
+<li>tails  &gt; perfect research software </li>
+<li>virtual box &gt; not feasible </li>
+<li>qubes &gt; if money make it the daily driver</li>
+</ol>
+</li>
+<li>search engine &gt; whoogle
+<ol>
+<li>duckduckgolite &gt; fast , bad</li>
+<li>startpage &gt; slow , good</li>
+<li>searx &gt; customised, fast , </li>
+<li>bing &gt; fast, bad</li>
+<li>google &gt; beats the competition like anything</li>
+<li>whoogle &gt; fast, powerful , exact</li>
+</ol>
+</li>
+<li>online storage &gt; 
+<ol>
+<li>drive </li>
+<li>one drive</li>
+<li>nextcloud </li>
+<li>seafile </li>
+<li>meaga nz</li>
+<li>syncthing with open vpn </li>
+</ol>
+</li>
+<li>editro &gt; sublime 
+<ol>
+<li>vscodium - normal, best </li>
+<li> vscode - slow , bad</li>
+<li> sublime - fast , good,  </li>
+<li> vim - sueprpfast , good, hard</li>
+<li> atom - slow , ok</li>
+</ol>
+</li>
+<li>songs  &gt; 
+<ol>
+<li>gaana </li>
+<li>jiosaav</li>
+<li>spotify</li>
+</ol>
+</li>
+<li>clips &gt; 
+<ol>
+<li>tiktok </li>
+<li> youtube </li>
+<li>netflixx</li>
+<li>'odysee</li>
+<li>peertube </li>
+<li> invidious</li>
+</ol>
+</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>browser 100%secure  + 100% ussable </title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/browser-100secure-100-ussable.html"/>
+        <id>https://sudosadhu.github.io/techtips/browser-100secure-100-ussable.html</id>
+
+        <updated>2021-07-06T18:21:26+05:30</updated>
+            <summary>
+                <![CDATA[
+                     browser &gt; librewolf &gt; brave wenables a lot and lot of things ( widevine , use agent header , privacy resistingg ) and a lot more things that make a lot of sense to enable and not to enable for the average use chrome&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>browser &gt; librewolf 
+<ol>
+<li>&gt;  brave wenables a lot and lot of things ( widevine , use agent header , privacy resistingg ) and a lot more things that make a lot of sense to enable and not to enable for the average use </li>
+<li>chrome &gt; those who use chrome are plain stupid for me  after the launch and maintainesce of the brave browser, and edge because  although there may be a excuse fo rr not using the firefox because it may be slow or something , but there is no excue to use the brave browser , brave sync afater the import provides all the features , with fstandard blocking whether banking , or anything you are not going to alos anythign  , there may be dount of the people that is being riddled with cryptocurrency software torrent and that difinitely might be a risk and honestly i thin that may be true and cannot be trusted , but ithee people arbehind this are too trustworthy to be rhothough that something lie this can happen , even then better safe than sound , that is why i have find many people using the firefox browser for their banking , and the truth if compared like that they should be using chrome sandboxed because chrome is much more security enhanced thatn firefox , and essentially everything likethat shoul db edone wibehind secure trusted software that is a netowrk ( firewalled ) os ( hardened linux ) browser (updated chromium) so defienitely chrome does stand for that reason sonly </li>
+<li>firefox &gt;firefox runs aunbeiebvaleb amout owiwhen it isarup a sn s the yo dohave to thin ,that firefiox is muc betterbit the trit is not ta t, because i thte firefo is truog t e smtgn pthat is mot ad that si the pronlme , tat os wju dit is neither too secure and not to fast n, librewolf, gives up usablility  extensions for privacy , but these are so carefully removed that you will feel much better not using the fature a lslght change in habit that yo=will change in you  a longer turn and that is why i promote the librewolf</li>
+<li>iridium , dissenter, seamonkey , links, dillo , &gt; you will keep changing browser and it is not worth it </li>
+</ol>
+</li>
+</ol>
+<p>2 - bookmarks &gt; xboomaksync</p>
+<p>3 - passwords &gt;  bitwarden  (fast, ok , works ) </p>
+<p>4 - session &gt; select all tabs and add bookmark (bad, slow, works) </p>
+<p>5 - cookies &gt; add exception in settings (fast , slow , works,)</p>
+<p>6 - scripts &gt; noscript (fast, sei automatic , works)</p>
+<p>7 - ip &gt; protonvpn( fast, automatic,works)</p>
+<ol>
+<li>
+<ol>
+<li> </li>
+</ol>
+</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>technology is not the problem , trustworthy and reliability is theissues with oversuse of technology, #foss , #selfhost  </title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/technology-is-not-the-problem-trustworthy-and-reliability-is-theissues-with-oversuse-of-technology-foss-selfhost.html"/>
+        <id>https://sudosadhu.github.io/techtips/technology-is-not-the-problem-trustworthy-and-reliability-is-theissues-with-oversuse-of-technology-foss-selfhost.html</id>
+
+        <updated>2021-07-06T06:22:34+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>voice typing mainstream</title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/voice-typing-mainstream.html"/>
+        <id>https://sudosadhu.github.io/techtips/voice-typing-mainstream.html</id>
+
+        <updated>2021-07-06T06:16:23+05:30</updated>
+            <summary>
+                <![CDATA[
+                     apart from the offices and ublic space i do not understand i dont understand why in the wolrd of such pmahine learning aand tenchnlgoical world that hte machine learning has not become mainstream and that is the problem 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>apart from the offices and ublic space i do not understand </li>
+<li>i dont  understand why in the wolrd of such pmahine learning aand tenchnlgoical world that hte machine learning has not become mainstream and that is the problem  </li>
+<li> </li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>why is the librewolf the best browsers </title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/why-is-the-librewolf-the-best-browsers.html"/>
+        <id>https://sudosadhu.github.io/techtips/why-is-the-librewolf-the-best-browsers.html</id>
+
+        <updated>2021-07-01T18:52:18+05:30</updated>
+            <summary>
+                <![CDATA[
+                     THE CASE OF BRAVE - brave updated brave works brave is chrome brave inherent allows so much there fore firefox iis the only soution issues with firefox librewolf solves cons of firefox with keeping the pros of firefox 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>THE CASE OF BRAVE - 
+<ol>
+<li>brave  updated  </li>
+<li>brave works </li>
+<li>brave is chrome</li>
+<li>brave inherent allows so much </li>
+</ol>
+</li>
+<li>there fore firefox iis the only soution </li>
+<li>issues with firefox </li>
+<li>librewolf solves cons of firefox with keeping the pros of firefox </li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+</feed>
