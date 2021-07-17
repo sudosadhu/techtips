@@ -3,12 +3,80 @@
     <title>techtips</title>
     <link href="https://sudosadhu.github.io/techtips/feed.xml" rel="self" />
     <link href="https://sudosadhu.github.io/techtips" />
-    <updated>2021-07-16T15:41:57+05:30</updated>
+    <updated>2021-07-17T09:41:56+05:30</updated>
     <author>
         <name>sudosadhu</name>
     </author>
     <id>https://sudosadhu.github.io/techtips</id>
 
+    <entry>
+        <title>just use xmpp</title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/just-use-xmpp.html"/>
+        <id>https://sudosadhu.github.io/techtips/just-use-xmpp.html</id>
+
+        <updated>2021-07-17T09:41:56+05:30</updated>
+            <summary>
+                <![CDATA[
+                    just install gajim an dconversations understood 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>just install gajim an dconversations understood</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>brave should do something about crypto </title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/brave-should-do-something-about-crypto.html"/>
+        <id>https://sudosadhu.github.io/techtips/brave-should-do-something-about-crypto.html</id>
+
+        <updated>2021-07-17T09:39:45+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>pure foss vs semi foss</title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://sudosadhu.github.io/techtips/pure-foss-vs-semi-foss.html"/>
+        <id>https://sudosadhu.github.io/techtips/pure-foss-vs-semi-foss.html</id>
+
+        <updated>2021-07-17T09:36:21+05:30</updated>
+            <summary>
+                <![CDATA[
+                    like new pipe vs youtube vanced mull/librewolf s brave keepass vs bitwarden There is no dout that keepass new pipe , librewolf, and keepass are the things that should be because tehy are the only software that can be sid privacy oriented prperly and the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>like</p>
+<p>new pipe vs youtube vanced</p>
+<p> mull/librewolf s brave</p>
+<p>keepass vs bitwarden </p>
+<p> </p>
+<p> </p>
+<ol>
+<li>There is no dout that keepass new pipe , librewolf, and keepass are the things that should be because tehy are the only  software that can be sid  privacy oriented prperly and the alternatives do not stand at the current chance to be called as secure and private  they just do not compyly withsame efficiency and there is not a single doubt in the fact theat they should be replaed wit4h those , things, </li>
+<li>BUT , <strong>some features are irrestible</strong> even if we are loss, <br>
+<ol>
+<li>cross device syncing -  omg can evern exaline so much needed n brave , </li>
+<li>on key remote access</li>
+<li> </li>
+</ol>
+</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>stop commenting , start direct messaging</title>
         <author>
@@ -224,74 +292,6 @@
 <li> </li>
 </ol>
 </li>
-</ol>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>technology is not the problem , trustworthy and reliability is theissues with oversuse of technology, #foss , #selfhost  </title>
-        <author>
-            <name>sudosadhu</name>
-        </author>
-        <link href="https://sudosadhu.github.io/techtips/technology-is-not-the-problem-trustworthy-and-reliability-is-theissues-with-oversuse-of-technology-foss-selfhost.html"/>
-        <id>https://sudosadhu.github.io/techtips/technology-is-not-the-problem-trustworthy-and-reliability-is-theissues-with-oversuse-of-technology-foss-selfhost.html</id>
-
-        <updated>2021-07-06T06:22:34+05:30</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>voice typing mainstream</title>
-        <author>
-            <name>sudosadhu</name>
-        </author>
-        <link href="https://sudosadhu.github.io/techtips/voice-typing-mainstream.html"/>
-        <id>https://sudosadhu.github.io/techtips/voice-typing-mainstream.html</id>
-
-        <updated>2021-07-06T06:16:23+05:30</updated>
-            <summary>
-                <![CDATA[
-                     apart from the offices and ublic space i do not understand i dont understand why in the wolrd of such pmahine learning aand tenchnlgoical world that hte machine learning has not become mainstream and that is the problem 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ol>
-<li>apart from the offices and ublic space i do not understand </li>
-<li>i dont  understand why in the wolrd of such pmahine learning aand tenchnlgoical world that hte machine learning has not become mainstream and that is the problem  </li>
-<li> </li>
-</ol>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>why is the librewolf the best browsers </title>
-        <author>
-            <name>sudosadhu</name>
-        </author>
-        <link href="https://sudosadhu.github.io/techtips/why-is-the-librewolf-the-best-browsers.html"/>
-        <id>https://sudosadhu.github.io/techtips/why-is-the-librewolf-the-best-browsers.html</id>
-
-        <updated>2021-07-01T18:52:18+05:30</updated>
-            <summary>
-                <![CDATA[
-                     THE CASE OF BRAVE - brave updated brave works brave is chrome brave inherent allows so much there fore firefox iis the only soution issues with firefox librewolf solves cons of firefox with keeping the pros of firefox 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ol>
-<li>THE CASE OF BRAVE - 
-<ol>
-<li>brave  updated  </li>
-<li>brave works </li>
-<li>brave is chrome</li>
-<li>brave inherent allows so much </li>
-</ol>
-</li>
-<li>there fore firefox iis the only soution </li>
-<li>issues with firefox </li>
-<li>librewolf solves cons of firefox with keeping the pros of firefox </li>
 </ol>
             ]]>
         </content>

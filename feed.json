@@ -10,6 +10,46 @@
     },
     "items": [
         {
+            "id": "https://sudosadhu.github.io/techtips/just-use-xmpp.html",
+            "url": "https://sudosadhu.github.io/techtips/just-use-xmpp.html",
+            "title": "just use xmpp",
+            "summary": "just install gajim an dconversations understood ",
+            "content_html": "<p>just install gajim an dconversations understood</p>\n<p> </p>",
+            "author": {
+                "name": "sudosadhu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-17T09:41:56+05:30",
+            "date_modified": "2021-07-17T09:41:56+05:30"
+        },
+        {
+            "id": "https://sudosadhu.github.io/techtips/brave-should-do-something-about-crypto.html",
+            "url": "https://sudosadhu.github.io/techtips/brave-should-do-something-about-crypto.html",
+            "title": "brave should do something about crypto ",
+            "author": {
+                "name": "sudosadhu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-17T09:39:45+05:30",
+            "date_modified": "2021-07-17T09:39:45+05:30"
+        },
+        {
+            "id": "https://sudosadhu.github.io/techtips/pure-foss-vs-semi-foss.html",
+            "url": "https://sudosadhu.github.io/techtips/pure-foss-vs-semi-foss.html",
+            "title": "pure foss vs semi foss",
+            "summary": "like new pipe vs youtube vanced mull/librewolf s brave keepass vs bitwarden There is no dout that keepass new pipe , librewolf, and keepass are the things that should be because tehy are the only software that can be sid privacy oriented prperly and the&hellip;",
+            "content_html": "<p>like</p>\n<p>new pipe vs youtube vanced</p>\n<p> mull/librewolf s brave</p>\n<p>keepass vs bitwarden </p>\n<p> </p>\n<p> </p>\n<ol>\n<li>There is no dout that keepass new pipe , librewolf, and keepass are the things that should be because tehy are the only  software that can be sid  privacy oriented prperly and the alternatives do not stand at the current chance to be called as secure and private  they just do not compyly withsame efficiency and there is not a single doubt in the fact theat they should be replaed wit4h those , things, </li>\n<li>BUT , <strong>some features are irrestible</strong> even if we are loss, <br>\n<ol>\n<li>cross device syncing -  omg can evern exaline so much needed n brave , </li>\n<li>on key remote access</li>\n<li> </li>\n</ol>\n</li>\n</ol>",
+            "author": {
+                "name": "sudosadhu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-17T09:36:21+05:30",
+            "date_modified": "2021-07-17T09:36:21+05:30"
+        },
+        {
             "id": "https://sudosadhu.github.io/techtips/stop-commenting-start-direct-messaging.html",
             "url": "https://sudosadhu.github.io/techtips/stop-commenting-start-direct-messaging.html",
             "title": "stop commenting , start direct messaging",
@@ -102,46 +142,6 @@
             ],
             "date_published": "2021-07-06T18:21:26+05:30",
             "date_modified": "2021-07-06T18:21:26+05:30"
-        },
-        {
-            "id": "https://sudosadhu.github.io/techtips/technology-is-not-the-problem-trustworthy-and-reliability-is-theissues-with-oversuse-of-technology-foss-selfhost.html",
-            "url": "https://sudosadhu.github.io/techtips/technology-is-not-the-problem-trustworthy-and-reliability-is-theissues-with-oversuse-of-technology-foss-selfhost.html",
-            "title": "technology is not the problem , trustworthy and reliability is theissues with oversuse of technology, #foss , #selfhost  ",
-            "author": {
-                "name": "sudosadhu"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-06T06:22:34+05:30",
-            "date_modified": "2021-07-06T06:22:34+05:30"
-        },
-        {
-            "id": "https://sudosadhu.github.io/techtips/voice-typing-mainstream.html",
-            "url": "https://sudosadhu.github.io/techtips/voice-typing-mainstream.html",
-            "title": "voice typing mainstream",
-            "summary": " apart from the offices and ublic space i do not understand i dont understand why in the wolrd of such pmahine learning aand tenchnlgoical world that hte machine learning has not become mainstream and that is the problem ",
-            "content_html": "<ol>\n<li>apart from the offices and ublic space i do not understand </li>\n<li>i dont  understand why in the wolrd of such pmahine learning aand tenchnlgoical world that hte machine learning has not become mainstream and that is the problem  </li>\n<li> </li>\n</ol>",
-            "author": {
-                "name": "sudosadhu"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-06T06:16:23+05:30",
-            "date_modified": "2021-07-06T06:16:23+05:30"
-        },
-        {
-            "id": "https://sudosadhu.github.io/techtips/why-is-the-librewolf-the-best-browsers.html",
-            "url": "https://sudosadhu.github.io/techtips/why-is-the-librewolf-the-best-browsers.html",
-            "title": "why is the librewolf the best browsers ",
-            "summary": " THE CASE OF BRAVE - brave updated brave works brave is chrome brave inherent allows so much there fore firefox iis the only soution issues with firefox librewolf solves cons of firefox with keeping the pros of firefox ",
-            "content_html": "<ol>\n<li>THE CASE OF BRAVE - \n<ol>\n<li>brave  updated  </li>\n<li>brave works </li>\n<li>brave is chrome</li>\n<li>brave inherent allows so much </li>\n</ol>\n</li>\n<li>there fore firefox iis the only soution </li>\n<li>issues with firefox </li>\n<li>librewolf solves cons of firefox with keeping the pros of firefox </li>\n</ol>",
-            "author": {
-                "name": "sudosadhu"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-01T18:52:18+05:30",
-            "date_modified": "2021-07-01T18:52:18+05:30"
         }
     ]
 }
